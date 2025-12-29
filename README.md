@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-  <h5>LeetCode 😭</h5>
+  <h4>LeetCode 😭</h4>
     <img src="https://leetcard.jacoblin.cool/anabu?theme=dark&font=NTR&ext=heatmap" />
 </div>
 <br />
