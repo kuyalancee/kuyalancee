@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F78F7&center=true&vCenter=true&width=439&lines=Hi%2C+I'm+Lance+%3AD" alt="Typing SVG" /></a>
+</p>
+
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
   <a href="https://wakatime.com/kuyalancee">
@@ -23,17 +28,16 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuyalancee&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+</p>
 
 <div align="center">
   <h5>LeetCode 😭</h5>
     <img src="https://leetcard.jacoblin.cool/anabu?theme=dark&font=NTR&ext=heatmap" />
 </div>
-
-  
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuyalancee&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
-</p>
+<br />
 
 <!-- https://github.com/LelouchFR/skill-icons -->
 <p align="center">
