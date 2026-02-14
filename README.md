@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuyalancee&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuyalancee&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph&" alt="activity graph" title="activity graph"/>
 </p>
 
 <div align="center">
@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 <!-- https://github.com/LelouchFR/skill-icons -->
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,py,js,html,css" height="40" /> <br />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,py,js" height="40" /> <br />
   </a>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,opencv,nodejs,express,websocket,sqlite" height="40" /> <br />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,opencv,scikitlearn,sqlite,react,fastapi" height="40" /> <br />
   </a>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,linux,git,cmake" height="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,linux,docker,git,cmake,jupyter,figma" height="40" />
   </a>
 </p>
