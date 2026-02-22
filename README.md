@@ -18,6 +18,11 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6F78F7&center=true&vCenter=true&width=439&lines=Hi%2C+I'm+Lance+%3AD" alt="Typing SVG" /></a>
 </p>
 
+- 🔭 I’m currently working on OrgMatcher: an NLP-based program that matches students to relevant organizations at UNT based on their interests
+- 🌱 I’m currently learning more about backend engineering
+- 👯 I’m looking to collaborate on C++ related-projects  
+
+
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
   <a href="https://wakatime.com/kuyalancee">
@@ -45,9 +50,9 @@ Here are some ideas to get you started:
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,py,js" height="40" /> <br />
   </a>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,opencv,scikitlearn,sqlite,react,fastapi" height="40" /> <br />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,opencv,scikitlearn,react,fastapi" height="40" /> <br />
   </a>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,linux,docker,git,cmake,jupyter,figma" height="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,linux,git,cmake,jupyter,figma" height="40" />
   </a>
 </p>
